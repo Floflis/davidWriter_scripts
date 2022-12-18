@@ -1,0 +1,4 @@
+chown -h 1000:1000 './savefile.sh'
+chmod 0777 './savefile.sh'
+/usr/bin/touch -hcmd "2022-12-18 16:39:33.6476061000 -0300" './savefile.sh'
+/usr/bin/touch -hcad "2022-12-18 16:39:53.2276944000 -0300" './savefile.sh'
