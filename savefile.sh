@@ -1,4 +1,1 @@
-echo "Now:"
-echo "$1"
-echo "Then:"
-cat "$1"
+echo "$1" >> test.txt
